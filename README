@@ -1,0 +1,5 @@
+This application is in answer to a question on Stack Overflow. See question here: http://stackoverflow.com/q/6828807/840973
+
+It demonstrates a countdown to a time on the same day. Specifically with a string format of HH:MM.
+
+Questions, or bugs? - Email lexy0202@gmail.com
